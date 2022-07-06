@@ -68,6 +68,7 @@
  <b> This is the image which shows the details about the web service deployed and the link was created which i9s shown in the image below </b>
  ![image12](https://github.com/DevM34/FRT_Project/blob/master/computervision.aspcore/Screenshots/12.png?raw=true)
  
+ <h5> To access the project here is the link https://imageanalysisaspcore20220706221413.azurewebsites.net </h5>
  
  
  
