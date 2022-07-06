@@ -40,7 +40,7 @@
 <b> Now we will add client library from NuGet packages called for accessing Computer Vision Resources. </b>
 <b> Microsoft.Azure.CognitiveServices.Vision.ComputerVision </b>
 
-1[image5]()
+![image5](https://github.com/DevM34/FRT_Project/blob/master/computervision.aspcore/Screenshots/5.png?raw=true)
 
 
 
