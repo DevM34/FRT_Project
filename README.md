@@ -26,4 +26,21 @@
 ![image](https://github.com/DevM34/FRT_Project/blob/master/computervision.aspcore/Screenshots/1.png?raw=true)
 
 <b> After filling all the details we will get our computer vision resource and we will have our subscription key and endpoint key. </b>
-![image2]()
+![image2](https://github.com/DevM34/FRT_Project/blob/master/computervision.aspcore/Screenshots/2.png?raw=true)
+
+<b> Below image shows the subscription keys and Endpoint which will be required when we have to access to this service. </b>
+ 
+![image3]()
+
+<h3> Creating new project </h3>
+
+<b> We will get started with creating the solution for our project. For this will will use Visual Studio 2019 and will use ASP.NET CORE WEB APP for creating solution </b>
+![image4]()
+
+<b> Now we will add client library from NuGet packages called for accessing Computer Vision Resources. </b>
+<b> Microsoft.Azure.CognitiveServices.Vision.ComputerVision </b>
+
+1[image5]()
+
+
+
