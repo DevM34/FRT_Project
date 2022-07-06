@@ -70,8 +70,14 @@
  
  <h5> To access the project here is the link https://imageanalysisaspcore20220706221413.azurewebsites.net </h5>
  
- 
- 
+ <h2> Working <h2>
+  
+ Uploading WORKING.mp4…
+  
+  <h2> Project Link <h2>
+   <h3> https://imageanalysisaspcore20220706221413.azurewebsites.net <h3>
+
+
 
 
 
