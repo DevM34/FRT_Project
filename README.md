@@ -72,7 +72,7 @@
  
  <h2> Working <h2>
   
- Uploading WORKING.mp4…
+ 
   
   <h2> Project Link <h2>
    <h3> https://imageanalysisaspcore20220706221413.azurewebsites.net <h3>
