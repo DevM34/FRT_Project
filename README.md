@@ -54,7 +54,7 @@
  ![image7](https://github.com/DevM34/FRT_Project/blob/master/computervision.aspcore/Screenshots/7.png?raw=true)
  
  <b> This is the details of web service deployed on azure. This creates a global link for access the Image Analysis </b>
- ![image8]()
+ ![image8](https://github.com/DevM34/FRT_Project/blob/master/computervision.aspcore/Screenshots/8.png?raw=true)
  
  <b> This is the web service plans details </b>
  ![image9]()
