@@ -35,7 +35,7 @@
 <h3> Creating new project </h3>
 
 <b> We will get started with creating the solution for our project. For this will will use Visual Studio 2019 and will use ASP.NET CORE WEB APP for creating solution </b>
-![image4]()
+![image4](https://github.com/DevM34/FRT_Project/blob/master/computervision.aspcore/Screenshots/4.png?raw=true)
 
 <b> Now we will add client library from NuGet packages called for accessing Computer Vision Resources. </b>
 <b> Microsoft.Azure.CognitiveServices.Vision.ComputerVision </b>
