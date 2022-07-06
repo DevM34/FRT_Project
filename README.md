@@ -59,6 +59,11 @@
  <b> This is the web service plans details </b>
  ![image9](https://github.com/DevM34/FRT_Project/blob/master/computervision.aspcore/Screenshots/9.png?raw=true)
  
+ <h3> Resource Group </h3>
+ 
+ <b> Resource group is like the organization under which we apply for the resources and all the resources we applied for are shown under one banner </b>
+ ![image10]()
+ 
  
  
  
