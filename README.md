@@ -42,6 +42,13 @@
 
 ![image5](https://github.com/DevM34/FRT_Project/blob/master/computervision.aspcore/Screenshots/5.png?raw=true)
  
+ <b> Now, here is the snippet of code where we will authenticate the user access to the service. </b>
+ ![image6]()
+ 
+ <b> Below is the code snippet for retrieving the analysis information from computer vision </b>
+ ![image7]()
+ 
+ 
  
 
 
