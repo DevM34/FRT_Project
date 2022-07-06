@@ -51,7 +51,7 @@
  <h3> Deployment details </h3>
  
  <b> Solution was deployed from Visual Studio itself using the publish on Azure cloud by Azure App Services which publishes the solution on azure cloud.</b>
- ![image7]()
+ ![image7](https://github.com/DevM34/FRT_Project/blob/master/computervision.aspcore/Screenshots/7.png?raw=true)
  
  <b> This is the details of web service deployed on azure. This creates a global link for access the Image Analysis </b>
  ![image8]()
