@@ -41,6 +41,8 @@
 <b> Microsoft.Azure.CognitiveServices.Vision.ComputerVision </b>
 
 ![image5](https://github.com/DevM34/FRT_Project/blob/master/computervision.aspcore/Screenshots/5.png?raw=true)
+ 
+ 
 
 
 
