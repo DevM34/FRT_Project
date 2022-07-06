@@ -46,7 +46,20 @@
  ![image6](https://github.com/DevM34/FRT_Project/blob/master/computervision.aspcore/Screenshots/6.png?raw=true)
  
  <b> Below is the code snippet for retrieving the analysis information from computer vision </b>
- ![image7](![image](https://user-images.githubusercontent.com/104422578/177650857-89a11ae3-c052-4647-a810-054c0d04aba1.png)
+ ![image11](https://user-images.githubusercontent.com/104422578/177650857-89a11ae3-c052-4647-a810-054c0d04aba1.png)
+ 
+ <h3> Deployment details </h3>
+ 
+ <b> Solution was deployed from Visual Studio itself using the publish on Azure cloud by Azure App Services which publishes the solution on azure cloud.</b>
+ ![image7]()
+ 
+ <b> This is the details of web service deployed on azure. This creates a global link for access the Image Analysis </b>
+ ![image8]()
+ 
+ <b> This is the web service plans details </b>
+ ![image9]()
+ 
+ 
  
  
  
