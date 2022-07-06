@@ -46,7 +46,8 @@
  ![image6](https://github.com/DevM34/FRT_Project/blob/master/computervision.aspcore/Screenshots/6.png?raw=true)
  
  <b> Below is the code snippet for retrieving the analysis information from computer vision </b>
- ![image7]()
+ ![image7](![image](https://user-images.githubusercontent.com/104422578/177650857-89a11ae3-c052-4647-a810-054c0d04aba1.png)
+ 
  
  
  
