@@ -57,7 +57,7 @@
  ![image8](https://github.com/DevM34/FRT_Project/blob/master/computervision.aspcore/Screenshots/8.png?raw=true)
  
  <b> This is the web service plans details </b>
- ![image9]()
+ ![image9](https://github.com/DevM34/FRT_Project/blob/master/computervision.aspcore/Screenshots/9.png?raw=true)
  
  
  
